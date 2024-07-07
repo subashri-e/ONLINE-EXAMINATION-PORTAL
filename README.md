@@ -1,6 +1,6 @@
-<h1><u>OASIS INFOBYTE JAVA INTERNSHIP</u></h1>
+<h1><u>ONLINE EXAMINATION PORTAL</u></h1>
 
-<h2><u>TASK : ONLINE EXAMINATION  </u></h2>
+<h3><u>TECHNOLOGIES USED : Java Swing (Visual Studio Code IDE)  </u></h3>
 
 <h3>PROJECT FEATURES : </h3>
 <ul>
